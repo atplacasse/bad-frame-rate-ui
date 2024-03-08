@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VortekCamera
+  - StereoCamera
+  - VortekViewpoint
+  - VCustom
+  - ATVLight
+  - Destroyed
+  - ATNotice
+  - ATVReflectionProbe
+  - CameraRenderer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pickable
+  - Grass
+  - RealtimeShadow
+  - HiddenEmissive
+  - Gizmos
+  - VRLeft_Mask
+  - VRRight_Mask
+  - Model3D
+  - PostProcessing
+  - Decimator
+  - TransparentMat
+  - Model3DThumbnailTaker
+  - OVRController
+  - ParticleSystem
+  -
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Transparent
+    uniqueID: 3359495021
+    locked: 0
